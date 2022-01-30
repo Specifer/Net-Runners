@@ -1,4 +1,4 @@
-# Basic Discord Bot Example
+#Covid Response Bot.
 
 This is a fully customizable example Discord bot that you can add to your
 Discord guild in just a few clicks. You don't need anything other than a Discord
