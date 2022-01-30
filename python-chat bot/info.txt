@@ -1,0 +1,9 @@
+Required packages-
+numpy
+tflearn
+tensorflow
+nltk
+
+Made with python 3.9
+Made from videos posted by Tech With Tim on Youtube.
+Beginner project hence very rudimentary.
